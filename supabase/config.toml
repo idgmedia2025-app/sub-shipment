@@ -1,0 +1,5 @@
+project_id = "iblbriybcbljrhcxgsgi"
+
+[functions.manage-user]
+verify_jwt = false
+
